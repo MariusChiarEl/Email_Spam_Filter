@@ -1,3 +1,0 @@
-Pentru fiecare cuvant gasit in mail ul analizat as putea lua in calcul, pe langa frecventa sa in spam-uri si non-spam-uri, si frecventa sinonimelor (folosing o biblioteca python care are acces la dictionarul limbilor de circulatie internationala).
-
-Cuvintele care nu apar in niciun dictionar (nonsensurile) ar trebui sa aiba sanse mai mari sa fie in spam.
